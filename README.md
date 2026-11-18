@@ -1,11 +1,11 @@
 # element-atelier-img-2
 
-[element-atelier](https://github.com/polos0117/element-atelier) 의 **둘째** 그림 저장소다(2026-11-13 부터 열림).
+[element-atelier](https://github.com/polos0117/element-atelier) 의 **둘째** 그림 저장소다(2026-11-13 ~ 11-18 열림 → **2026-11-18 닫힘**, 약 0.96 GB — 이미 있는 이름의 교체만. 새 그림은 [element-atelier-img-3](https://github.com/polos0117/element-atelier-img-3)). 테마(`themes/`)는 그대로 여기.
 첫 저장소는 [element-atelier-img](https://github.com/polos0117/element-atelier-img)(0 번, 닫힘 — 이미 있는 이름의 교체만).
 
 ## 왜 하나 더 두나
 
-GitHub Pages 사이트 한 개는 1 GB 까지다. 첫 저장소가 거의 차서 **새 그림(webp)은 여기 `img/` 에** 올린다.
+GitHub Pages 사이트 한 개는 1 GB 까지다. 첫 저장소가 거의 차서 새 그림(webp)은 여기 `img/` 에 올렸다(2026-11-13 ~ 11-18). **지금은 `element-atelier-img-3` 에 올린다.**
 앞 저장소의 그림은 지우지도 옮기지도 않는다 — 옛 주소가 그대로 산다.
 
 어느 그림이 어느 저장소에 있는지는 등록기가 `element-atelier` 의 `data/img.json` 에 `"where": {"<파일>": 1}` 로 적고,
